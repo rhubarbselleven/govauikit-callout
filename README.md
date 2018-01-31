@@ -34,7 +34,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
 
-          <AUcallout description="This is a callout."/>
+          <AUcallout description="This is a callout.">With a child</AUcallout>
 
       </div>
     );
